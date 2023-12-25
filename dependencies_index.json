@@ -22767,6 +22767,26 @@
         {
             "id": 5693,
             "name": "misc"
+        },
+        {
+            "id": 5694,
+            "name": "streamdiffusion"
+        },
+        {
+            "id": 5695,
+            "name": "mss"
+        },
+        {
+            "id": 5696,
+            "name": "whisperx"
+        },
+        {
+            "id": 5697,
+            "name": "rebyte_langchain"
+        },
+        {
+            "id": 5698,
+            "name": "jsonschema_pydantic"
         }
     ]
 }
