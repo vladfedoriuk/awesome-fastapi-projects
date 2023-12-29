@@ -22855,6 +22855,10 @@
         {
             "id": 5715,
             "name": "kaldialign"
+        },
+        {
+            "id": 5716,
+            "name": "my_faust"
         }
     ]
 }
