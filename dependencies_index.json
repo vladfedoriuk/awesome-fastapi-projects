@@ -22911,6 +22911,54 @@
         {
             "id": 5729,
             "name": "pygal"
+        },
+        {
+            "id": 5730,
+            "name": "skellyforge"
+        },
+        {
+            "id": 5731,
+            "name": "ajc27_freemocap_blender_addon"
+        },
+        {
+            "id": 5732,
+            "name": "skelly_synchronize"
+        },
+        {
+            "id": 5733,
+            "name": "pyqtgraph"
+        },
+        {
+            "id": 5734,
+            "name": "BlendArMocap"
+        },
+        {
+            "id": 5735,
+            "name": "aniposelib"
+        },
+        {
+            "id": 5736,
+            "name": "addon_utils"
+        },
+        {
+            "id": 5737,
+            "name": "jon_scratch"
+        },
+        {
+            "id": 5738,
+            "name": "skellycam"
+        },
+        {
+            "id": 5739,
+            "name": "skelly_viewer"
+        },
+        {
+            "id": 5740,
+            "name": "__version__"
+        },
+        {
+            "id": 5741,
+            "name": "conftest"
         }
     ]
 }
