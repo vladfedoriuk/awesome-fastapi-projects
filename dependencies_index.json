@@ -23079,6 +23079,34 @@
         {
             "id": 5771,
             "name": "ragatouille"
+        },
+        {
+            "id": 5772,
+            "name": "wenxin_llm"
+        },
+        {
+            "id": 5773,
+            "name": "zhipuai_embedding"
+        },
+        {
+            "id": 5774,
+            "name": "zhipuai_llm"
+        },
+        {
+            "id": 5775,
+            "name": "create_db"
+        },
+        {
+            "id": 5776,
+            "name": "call_llm"
+        },
+        {
+            "id": 5777,
+            "name": "qa_chain"
+        },
+        {
+            "id": 5778,
+            "name": "spark_llm"
         }
     ]
 }
