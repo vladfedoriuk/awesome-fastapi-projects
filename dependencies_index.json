@@ -23107,6 +23107,42 @@
         {
             "id": 5778,
             "name": "spark_llm"
+        },
+        {
+            "id": 5779,
+            "name": "langchain_robocorp"
+        },
+        {
+            "id": 5780,
+            "name": "neo4j_semantic_layer"
+        },
+        {
+            "id": 5781,
+            "name": "robocorp_action_server"
+        },
+        {
+            "id": 5782,
+            "name": "literalai"
+        },
+        {
+            "id": 5783,
+            "name": "dlp"
+        },
+        {
+            "id": 5784,
+            "name": "intel_extension_for_deepspeed"
+        },
+        {
+            "id": 5785,
+            "name": "agent_search"
+        },
+        {
+            "id": 5786,
+            "name": "enc_dec"
+        },
+        {
+            "id": 5787,
+            "name": "ammo"
         }
     ]
 }
