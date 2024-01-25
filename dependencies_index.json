@@ -27375,6 +27375,46 @@
         {
             "id": 6845,
             "name": "multimodal_concat"
+        },
+        {
+            "id": 6846,
+            "name": "kdbai_client"
+        },
+        {
+            "id": 6847,
+            "name": "hdbcli"
+        },
+        {
+            "id": 6848,
+            "name": "mlx_lm"
+        },
+        {
+            "id": 6849,
+            "name": "mlx"
+        },
+        {
+            "id": 6850,
+            "name": "vanna"
+        },
+        {
+            "id": 6851,
+            "name": "isal"
+        },
+        {
+            "id": 6852,
+            "name": "chatlab"
+        },
+        {
+            "id": 6853,
+            "name": "libmailgoose"
+        },
+        {
+            "id": 6854,
+            "name": "fastcrud"
+        },
+        {
+            "id": 6855,
+            "name": "cdk"
         }
     ]
 }
