@@ -27415,6 +27415,26 @@
         {
             "id": 6855,
             "name": "cdk"
+        },
+        {
+            "id": 6856,
+            "name": "exa_py"
+        },
+        {
+            "id": 6857,
+            "name": "langchain_exa"
+        },
+        {
+            "id": 6858,
+            "name": "haystack_integrations"
+        },
+        {
+            "id": 6859,
+            "name": "trieve"
+        },
+        {
+            "id": 6860,
+            "name": "trieve_python_client"
         }
     ]
 }
