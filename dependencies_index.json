@@ -28231,6 +28231,38 @@
         {
             "id": 7059,
             "name": "cdk_apigw"
+        },
+        {
+            "id": 7060,
+            "name": "mplsoccer"
+        },
+        {
+            "id": 7061,
+            "name": "sdata"
+        },
+        {
+            "id": 7062,
+            "name": "lance"
+        },
+        {
+            "id": 7063,
+            "name": "langroid"
+        },
+        {
+            "id": 7064,
+            "name": "vr"
+        },
+        {
+            "id": 7065,
+            "name": "mdxnet"
+        },
+        {
+            "id": 7066,
+            "name": "MDXNet"
+        },
+        {
+            "id": 7067,
+            "name": "LangSegment"
         }
     ]
 }
