@@ -28891,6 +28891,122 @@
         {
             "id": 7224,
             "name": "stdlib_list"
+        },
+        {
+            "id": 7225,
+            "name": "defog"
+        },
+        {
+            "id": 7226,
+            "name": "pulumi_digitalocean"
+        },
+        {
+            "id": 7227,
+            "name": "pulumi_tls"
+        },
+        {
+            "id": 7228,
+            "name": "pulumi_azuread"
+        },
+        {
+            "id": 7229,
+            "name": "pulumi_azure"
+        },
+        {
+            "id": 7230,
+            "name": "pulumi_policy"
+        },
+        {
+            "id": 7231,
+            "name": "pulumi_awsx"
+        },
+        {
+            "id": 7232,
+            "name": "pulumi_openstack"
+        },
+        {
+            "id": 7233,
+            "name": "pulumi_libvirt"
+        },
+        {
+            "id": 7234,
+            "name": "pulumi_random"
+        },
+        {
+            "id": 7235,
+            "name": "pulumi_mysql"
+        },
+        {
+            "id": 7236,
+            "name": "pulumi_command"
+        },
+        {
+            "id": 7237,
+            "name": "pulumi_azure_native"
+        },
+        {
+            "id": 7238,
+            "name": "pulumi_aws_apigateway"
+        },
+        {
+            "id": 7239,
+            "name": "pulumi_equinix"
+        },
+        {
+            "id": 7240,
+            "name": "marigold"
+        },
+        {
+            "id": 7241,
+            "name": "legacy_preprocessors"
+        },
+        {
+            "id": 7242,
+            "name": "lib_controllllite"
+        },
+        {
+            "id": 7243,
+            "name": "lib_controlnet"
+        },
+        {
+            "id": 7244,
+            "name": "lib_latent_modifier"
+        },
+        {
+            "id": 7245,
+            "name": "lib_ipadapter"
+        },
+        {
+            "id": 7246,
+            "name": "spandrel"
+        },
+        {
+            "id": 7247,
+            "name": "lib_multidiffusion"
+        },
+        {
+            "id": 7248,
+            "name": "lib_dynamic_thresholding"
+        },
+        {
+            "id": 7249,
+            "name": "xmodem"
+        },
+        {
+            "id": 7250,
+            "name": "kasa"
+        },
+        {
+            "id": 7251,
+            "name": "myimport"
+        },
+        {
+            "id": 7252,
+            "name": "vxi11"
+        },
+        {
+            "id": 7253,
+            "name": "processors"
         }
     ]
 }
