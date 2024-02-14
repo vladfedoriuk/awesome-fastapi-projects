@@ -29027,6 +29027,194 @@
         {
             "id": 7258,
             "name": "instructor"
+        },
+        {
+            "id": 7259,
+            "name": "djangoproject"
+        },
+        {
+            "id": 7260,
+            "name": "jsonschema_path"
+        },
+        {
+            "id": 7261,
+            "name": "starletteproject"
+        },
+        {
+            "id": 7262,
+            "name": "aiohttpproject"
+        },
+        {
+            "id": 7263,
+            "name": "aioitertools"
+        },
+        {
+            "id": 7264,
+            "name": "falconproject"
+        },
+        {
+            "id": 7265,
+            "name": "fastapiproject"
+        },
+        {
+            "id": 7266,
+            "name": "flaskproject"
+        },
+        {
+            "id": 7267,
+            "name": "openapi_schema_validator"
+        },
+        {
+            "id": 7268,
+            "name": "ngrok"
+        },
+        {
+            "id": 7269,
+            "name": "stt"
+        },
+        {
+            "id": 7270,
+            "name": "vdk_provider"
+        },
+        {
+            "id": 7271,
+            "name": "ipyaggrid"
+        },
+        {
+            "id": 7272,
+            "name": "click_log"
+        },
+        {
+            "id": 7273,
+            "name": "click_plugins"
+        },
+        {
+            "id": 7274,
+            "name": "vdk"
+        },
+        {
+            "id": 7275,
+            "name": "minikerberos"
+        },
+        {
+            "id": 7276,
+            "name": "taurus_datajob_api"
+        },
+        {
+            "id": 7277,
+            "name": "openlineage"
+        },
+        {
+            "id": 7278,
+            "name": "vdk_jupyterlab_extension"
+        },
+        {
+            "id": 7279,
+            "name": "smtpdfix"
+        },
+        {
+            "id": 7280,
+            "name": "vacloud"
+        },
+        {
+            "id": 7281,
+            "name": "monsterapi"
+        },
+        {
+            "id": 7282,
+            "name": "openllm_client"
+        },
+        {
+            "id": 7283,
+            "name": "llmlingua"
+        },
+        {
+            "id": 7284,
+            "name": "dashtext"
+        },
+        {
+            "id": 7285,
+            "name": "txtai"
+        },
+        {
+            "id": 7286,
+            "name": "tair"
+        },
+        {
+            "id": 7287,
+            "name": "voyageai"
+        },
+        {
+            "id": 7288,
+            "name": "portkey"
+        },
+        {
+            "id": 7289,
+            "name": "llamaapi"
+        },
+        {
+            "id": 7290,
+            "name": "honeyhive"
+        },
+        {
+            "id": 7291,
+            "name": "vellum"
+        },
+        {
+            "id": 7292,
+            "name": "dashvector"
+        },
+        {
+            "id": 7293,
+            "name": "konko"
+        },
+        {
+            "id": 7294,
+            "name": "upstash_vector"
+        },
+        {
+            "id": 7295,
+            "name": "argilla_llama_index"
+        },
+        {
+            "id": 7296,
+            "name": "pgvecto_rs"
+        },
+        {
+            "id": 7297,
+            "name": "dirtyjson"
+        },
+        {
+            "id": 7298,
+            "name": "tcvectordb"
+        },
+        {
+            "id": 7299,
+            "name": "pathway"
+        },
+        {
+            "id": 7300,
+            "name": "rake_nltk"
+        },
+        {
+            "id": 7301,
+            "name": "tonic_validate"
+        },
+        {
+            "id": 7302,
+            "name": "ollama"
+        },
+        {
+            "id": 7303,
+            "name": "span_marker"
+        },
+        {
+            "id": 7304,
+            "name": "flashrank"
+        },
+        {
+            "id": 7305,
+            "name": "argostranslate"
         }
     ]
 }
