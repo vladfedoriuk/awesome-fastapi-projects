@@ -29215,6 +29215,34 @@
         {
             "id": 7305,
             "name": "argostranslate"
+        },
+        {
+            "id": 7306,
+            "name": "langchain_ibm"
+        },
+        {
+            "id": 7307,
+            "name": "modules_forge"
+        },
+        {
+            "id": 7308,
+            "name": "depth_anything"
+        },
+        {
+            "id": 7309,
+            "name": "tld"
+        },
+        {
+            "id": 7310,
+            "name": "sqlite_zstd"
+        },
+        {
+            "id": 7311,
+            "name": "medium_parser"
+        },
+        {
+            "id": 7312,
+            "name": "funcchain"
         }
     ]
 }
