@@ -29243,6 +29243,30 @@
         {
             "id": 7312,
             "name": "funcchain"
+        },
+        {
+            "id": 7313,
+            "name": "caseconverter"
+        },
+        {
+            "id": 7314,
+            "name": "celery_sqlalchemy_scheduler"
+        },
+        {
+            "id": 7315,
+            "name": "fastapi_nextauth_jwt"
+        },
+        {
+            "id": 7316,
+            "name": "fastapi_async_sqlalchemy"
+        },
+        {
+            "id": 7317,
+            "name": "langchain_ai21"
+        },
+        {
+            "id": 7318,
+            "name": "langchain_astradb"
         }
     ]
 }
