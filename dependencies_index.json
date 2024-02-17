@@ -29267,6 +29267,18 @@
         {
             "id": 7318,
             "name": "langchain_astradb"
+        },
+        {
+            "id": 7319,
+            "name": "rich_pixels"
+        },
+        {
+            "id": 7320,
+            "name": "llama_index_client"
+        },
+        {
+            "id": 7321,
+            "name": "uptrain"
         }
     ]
 }
