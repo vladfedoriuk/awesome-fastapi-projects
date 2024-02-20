@@ -29315,6 +29315,18 @@
         {
             "id": 7330,
             "name": "cutlass_library"
+        },
+        {
+            "id": 7331,
+            "name": "swifter"
+        },
+        {
+            "id": 7332,
+            "name": "qdrantClient"
+        },
+        {
+            "id": 7333,
+            "name": "llama_parse"
         }
     ]
 }
