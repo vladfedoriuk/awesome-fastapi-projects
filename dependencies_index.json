@@ -29527,6 +29527,42 @@
         {
             "id": 7383,
             "name": "negotiation"
+        },
+        {
+            "id": 7384,
+            "name": "llamafile_manager"
+        },
+        {
+            "id": 7385,
+            "name": "botframework"
+        },
+        {
+            "id": 7386,
+            "name": "teams"
+        },
+        {
+            "id": 7387,
+            "name": "botbuilder"
+        },
+        {
+            "id": 7388,
+            "name": "airbyte"
+        },
+        {
+            "id": 7389,
+            "name": "langchain_airbyte"
+        },
+        {
+            "id": 7390,
+            "name": "sentence_transformer"
+        },
+        {
+            "id": 7391,
+            "name": "google_sheets_tool"
+        },
+        {
+            "id": 7392,
+            "name": "friendli"
         }
     ]
 }
