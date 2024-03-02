@@ -29631,6 +29631,22 @@
         {
             "id": 7409,
             "name": "geval"
+        },
+        {
+            "id": 7410,
+            "name": "rag_lancedb"
+        },
+        {
+            "id": 7411,
+            "name": "langchain_text_splitters"
+        },
+        {
+            "id": 7412,
+            "name": "scyllapy"
+        },
+        {
+            "id": 7413,
+            "name": "videodb"
         }
     ]
 }
