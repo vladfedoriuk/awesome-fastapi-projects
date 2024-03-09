@@ -29851,6 +29851,30 @@
         {
             "id": 7464,
             "name": "custom_types"
+        },
+        {
+            "id": 7465,
+            "name": "vectors"
+        },
+        {
+            "id": 7466,
+            "name": "rtfparse"
+        },
+        {
+            "id": 7467,
+            "name": "microplugin"
+        },
+        {
+            "id": 7468,
+            "name": "stardist"
+        },
+        {
+            "id": 7469,
+            "name": "qtawesome"
+        },
+        {
+            "id": 7470,
+            "name": "tidb_vector"
         }
     ]
 }
