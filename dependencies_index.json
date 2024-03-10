@@ -29875,6 +29875,18 @@
         {
             "id": 7470,
             "name": "tidb_vector"
+        },
+        {
+            "id": 7471,
+            "name": "hatchet_sdk"
+        },
+        {
+            "id": 7472,
+            "name": "immutabledict"
+        },
+        {
+            "id": 7473,
+            "name": "striprtf"
         }
     ]
 }
