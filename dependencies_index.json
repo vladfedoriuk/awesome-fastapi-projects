@@ -29931,6 +29931,30 @@
         {
             "id": 7484,
             "name": "tkhelper"
+        },
+        {
+            "id": 7485,
+            "name": "rag_redis_multi_modal_multi_vector"
+        },
+        {
+            "id": 7486,
+            "name": "chain"
+        },
+        {
+            "id": 7487,
+            "name": "tuneapi"
+        },
+        {
+            "id": 7488,
+            "name": "deepseek_vl"
+        },
+        {
+            "id": 7489,
+            "name": "grai_source_cube"
+        },
+        {
+            "id": 7490,
+            "name": "pymochow"
         }
     ]
 }
