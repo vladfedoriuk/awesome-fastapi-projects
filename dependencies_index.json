@@ -30019,6 +30019,162 @@
         {
             "id": 7506,
             "name": "premai"
+        },
+        {
+            "id": 7507,
+            "name": "simple_ddl_parser"
+        },
+        {
+            "id": 7508,
+            "name": "lagent"
+        },
+        {
+            "id": 7509,
+            "name": "mmpretrain"
+        },
+        {
+            "id": 7510,
+            "name": "rvc_pipe"
+        },
+        {
+            "id": 7511,
+            "name": "vocos"
+        },
+        {
+            "id": 7512,
+            "name": "voicefixer"
+        },
+        {
+            "id": 7513,
+            "name": "encodec"
+        },
+        {
+            "id": 7514,
+            "name": "hubert"
+        },
+        {
+            "id": 7515,
+            "name": "vall_e"
+        },
+        {
+            "id": 7516,
+            "name": "music_tag"
+        },
+        {
+            "id": 7517,
+            "name": "torch_intermediary"
+        },
+        {
+            "id": 7518,
+            "name": "dlas"
+        },
+        {
+            "id": 7519,
+            "name": "isolate_proto"
+        },
+        {
+            "id": 7520,
+            "name": "fal"
+        },
+        {
+            "id": 7521,
+            "name": "refactor"
+        },
+        {
+            "id": 7522,
+            "name": "cli_nested_json"
+        },
+        {
+            "id": 7523,
+            "name": "portalocker"
+        },
+        {
+            "id": 7524,
+            "name": "openapi_fal_rest"
+        },
+        {
+            "id": 7525,
+            "name": "isolate"
+        },
+        {
+            "id": 7526,
+            "name": "ticlib"
+        },
+        {
+            "id": 7527,
+            "name": "nidaqmx"
+        },
+        {
+            "id": 7528,
+            "name": "nidmm"
+        },
+        {
+            "id": 7529,
+            "name": "SAVGOL"
+        },
+        {
+            "id": 7530,
+            "name": "flojoy_cloud"
+        },
+        {
+            "id": 7531,
+            "name": "tinymovr"
+        },
+        {
+            "id": 7532,
+            "name": "picosdk"
+        },
+        {
+            "id": 7533,
+            "name": "cantools"
+        },
+        {
+            "id": 7534,
+            "name": "pyvisa"
+        },
+        {
+            "id": 7535,
+            "name": "keyrings"
+        },
+        {
+            "id": 7536,
+            "name": "u3"
+        },
+        {
+            "id": 7537,
+            "name": "flojoy"
+        },
+        {
+            "id": 7538,
+            "name": "qcodes"
+        },
+        {
+            "id": 7539,
+            "name": "mecademicpy"
+        },
+        {
+            "id": 7540,
+            "name": "huggingsound"
+        },
+        {
+            "id": 7541,
+            "name": "jinja2_fragments"
+        },
+        {
+            "id": 7542,
+            "name": "simcse"
+        },
+        {
+            "id": 7543,
+            "name": "langchain_voyageai"
+        },
+        {
+            "id": 7544,
+            "name": "zxingcpp"
+        },
+        {
+            "id": 7545,
+            "name": "fastapi_oauth20"
         }
     ]
 }
