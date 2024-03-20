@@ -30275,6 +30275,34 @@
         {
             "id": 7570,
             "name": "prv_accountant"
+        },
+        {
+            "id": 7571,
+            "name": "rag_jaguardb"
+        },
+        {
+            "id": 7572,
+            "name": "sparseml"
+        },
+        {
+            "id": 7573,
+            "name": "zhipu"
+        },
+        {
+            "id": 7574,
+            "name": "retrieval"
+        },
+        {
+            "id": 7575,
+            "name": "convert_checkpoint"
+        },
+        {
+            "id": 7576,
+            "name": "wordsegment"
+        },
+        {
+            "id": 7577,
+            "name": "docugami"
         }
     ]
 }
