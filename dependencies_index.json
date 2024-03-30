@@ -31183,6 +31183,82 @@
         {
             "id": 7797,
             "name": "dask_kubernetes"
+        },
+        {
+            "id": 7798,
+            "name": "intel_rag_xeon"
+        },
+        {
+            "id": 7799,
+            "name": "vdms"
+        },
+        {
+            "id": 7800,
+            "name": "mrhttp"
+        },
+        {
+            "id": 7801,
+            "name": "mrjson"
+        },
+        {
+            "id": 7802,
+            "name": "raggy"
+        },
+        {
+            "id": 7803,
+            "name": "turbopuffer"
+        },
+        {
+            "id": 7804,
+            "name": "builder"
+        },
+        {
+            "id": 7805,
+            "name": "workflow"
+        },
+        {
+            "id": 7806,
+            "name": "parea"
+        },
+        {
+            "id": 7807,
+            "name": "icml_experiments"
+        },
+        {
+            "id": 7808,
+            "name": "zdatafront"
+        },
+        {
+            "id": 7809,
+            "name": "fastapi_helloworld_online"
+        },
+        {
+            "id": 7810,
+            "name": "abr_testing"
+        },
+        {
+            "id": 7811,
+            "name": "rank_llm"
+        },
+        {
+            "id": 7812,
+            "name": "alibabacloud_gpdb20160503"
+        },
+        {
+            "id": 7813,
+            "name": "jackett"
+        },
+        {
+            "id": 7814,
+            "name": "torrent"
+        },
+        {
+            "id": 7815,
+            "name": "debrid"
+        },
+        {
+            "id": 7816,
+            "name": "crossbar"
         }
     ]
 }
