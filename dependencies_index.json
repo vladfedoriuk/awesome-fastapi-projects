@@ -31259,6 +31259,110 @@
         {
             "id": 7816,
             "name": "crossbar"
+        },
+        {
+            "id": 7817,
+            "name": "docxcompose"
+        },
+        {
+            "id": 7818,
+            "name": "pymem"
+        },
+        {
+            "id": 7819,
+            "name": "xtquant"
+        },
+        {
+            "id": 7820,
+            "name": "zvt"
+        },
+        {
+            "id": 7821,
+            "name": "jqdatapy"
+        },
+        {
+            "id": 7822,
+            "name": "eastmoneypy"
+        },
+        {
+            "id": 7823,
+            "name": "extraction"
+        },
+        {
+            "id": 7824,
+            "name": "pymde"
+        },
+        {
+            "id": 7825,
+            "name": "cvxpy"
+        },
+        {
+            "id": 7826,
+            "name": "autoclasstoc"
+        },
+        {
+            "id": 7827,
+            "name": "mortgage"
+        },
+        {
+            "id": 7828,
+            "name": "solardatatools"
+        },
+        {
+            "id": 7829,
+            "name": "gfosd"
+        },
+        {
+            "id": 7830,
+            "name": "tikz"
+        },
+        {
+            "id": 7831,
+            "name": "drawdata"
+        },
+        {
+            "id": 7832,
+            "name": "leafmap"
+        },
+        {
+            "id": 7833,
+            "name": "mxitral_evaluator"
+        },
+        {
+            "id": 7834,
+            "name": "openui"
+        },
+        {
+            "id": 7835,
+            "name": "confz"
+        },
+        {
+            "id": 7836,
+            "name": "leapfrogai_api"
+        },
+        {
+            "id": 7837,
+            "name": "clevercsv"
+        },
+        {
+            "id": 7838,
+            "name": "aiolimiter"
+        },
+        {
+            "id": 7839,
+            "name": "opencompass"
+        },
+        {
+            "id": 7840,
+            "name": "ltp"
+        },
+        {
+            "id": 7841,
+            "name": "freqtrade_client"
+        },
+        {
+            "id": 7842,
+            "name": "lunary"
         }
     ]
 }
