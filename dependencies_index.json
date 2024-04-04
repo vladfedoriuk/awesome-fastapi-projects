@@ -31407,6 +31407,30 @@
         {
             "id": 7853,
             "name": "pydantic_duality"
+        },
+        {
+            "id": 7854,
+            "name": "openinference"
+        },
+        {
+            "id": 7855,
+            "name": "langchain_postgres"
+        },
+        {
+            "id": 7856,
+            "name": "libneuronxla"
+        },
+        {
+            "id": 7857,
+            "name": "langchain_google_alloydb_pg"
+        },
+        {
+            "id": 7858,
+            "name": "falkordb"
+        },
+        {
+            "id": 7859,
+            "name": "manim_slides"
         }
     ]
 }
