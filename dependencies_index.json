@@ -31451,6 +31451,14 @@
         {
             "id": 7864,
             "name": "torch2trt"
+        },
+        {
+            "id": 7865,
+            "name": "rag_azure_search"
+        },
+        {
+            "id": 7866,
+            "name": "fal_client"
         }
     ]
 }
