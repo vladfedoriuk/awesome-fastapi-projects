@@ -31651,6 +31651,66 @@
         {
             "id": 7914,
             "name": "tensorizer"
+        },
+        {
+            "id": 7915,
+            "name": "stream2sentence"
+        },
+        {
+            "id": 7916,
+            "name": "RealtimeSTT"
+        },
+        {
+            "id": 7917,
+            "name": "notifypy"
+        },
+        {
+            "id": 7918,
+            "name": "presidio_image_redactor"
+        },
+        {
+            "id": 7919,
+            "name": "oa_pynput"
+        },
+        {
+            "id": 7920,
+            "name": "AVFoundation"
+        },
+        {
+            "id": 7921,
+            "name": "screen_recorder_sdk"
+        },
+        {
+            "id": 7922,
+            "name": "oa_atomacos"
+        },
+        {
+            "id": 7923,
+            "name": "dictalchemy"
+        },
+        {
+            "id": 7924,
+            "name": "ApplicationServices"
+        },
+        {
+            "id": 7925,
+            "name": "blackboxprotobuf"
+        },
+        {
+            "id": 7926,
+            "name": "pytest_alembic"
+        },
+        {
+            "id": 7927,
+            "name": "freebd"
+        },
+        {
+            "id": 7928,
+            "name": "baidu"
+        },
+        {
+            "id": 7929,
+            "name": "Translator"
         }
     ]
 }
