@@ -31727,6 +31727,30 @@
         {
             "id": 7933,
             "name": "firecrawl"
+        },
+        {
+            "id": 7934,
+            "name": "dbgimporter"
+        },
+        {
+            "id": 7935,
+            "name": "badam"
+        },
+        {
+            "id": 7936,
+            "name": "truss_chains"
+        },
+        {
+            "id": 7937,
+            "name": "standardwebhooks"
+        },
+        {
+            "id": 7938,
+            "name": "openparse"
+        },
+        {
+            "id": 7939,
+            "name": "cloudinary"
         }
     ]
 }
