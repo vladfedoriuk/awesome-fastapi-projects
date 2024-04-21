@@ -31899,6 +31899,70 @@
         {
             "id": 7976,
             "name": "torch_ema"
+        },
+        {
+            "id": 7977,
+            "name": "cover_alpaca2jsonl"
+        },
+        {
+            "id": 7978,
+            "name": "peft_pretraining"
+        },
+        {
+            "id": 7979,
+            "name": "qwen_tokenizer"
+        },
+        {
+            "id": 7980,
+            "name": "baichuan2_13b"
+        },
+        {
+            "id": 7981,
+            "name": "flowvision"
+        },
+        {
+            "id": 7982,
+            "name": "mindformers"
+        },
+        {
+            "id": 7983,
+            "name": "baichuan2_tokenizer"
+        },
+        {
+            "id": 7984,
+            "name": "build_dataset"
+        },
+        {
+            "id": 7985,
+            "name": "trainer_seq2seq"
+        },
+        {
+            "id": 7986,
+            "name": "mindspore_lite"
+        },
+        {
+            "id": 7987,
+            "name": "oneflow"
+        },
+        {
+            "id": 7988,
+            "name": "baichuan2_7b"
+        },
+        {
+            "id": 7989,
+            "name": "scrapers"
+        },
+        {
+            "id": 7990,
+            "name": "pretrain_gpt"
+        },
+        {
+            "id": 7991,
+            "name": "e2b_code_interpreter"
+        },
+        {
+            "id": 7992,
+            "name": "dsp"
         }
     ]
 }
