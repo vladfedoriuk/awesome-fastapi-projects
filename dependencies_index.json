@@ -31971,6 +31971,50 @@
         {
             "id": 7994,
             "name": "pipmaster"
+        },
+        {
+            "id": 7995,
+            "name": "prefect_databricks"
+        },
+        {
+            "id": 7996,
+            "name": "prefect_collection_generator"
+        },
+        {
+            "id": 7997,
+            "name": "fdr"
+        },
+        {
+            "id": 7998,
+            "name": "linkcheckmd"
+        },
+        {
+            "id": 7999,
+            "name": "tree_sitter_python"
+        },
+        {
+            "id": 8000,
+            "name": "tree_sitter_javascript"
+        },
+        {
+            "id": 8001,
+            "name": "build_mlp"
+        },
+        {
+            "id": 8002,
+            "name": "ixc_utils"
+        },
+        {
+            "id": 8003,
+            "name": "openbb_econdb"
+        },
+        {
+            "id": 8004,
+            "name": "upnpy"
+        },
+        {
+            "id": 8005,
+            "name": "atb_llm"
         }
     ]
 }
