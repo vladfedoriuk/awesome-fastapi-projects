@@ -32143,6 +32143,38 @@
         {
             "id": 8037,
             "name": "sdk_pfs_test"
+        },
+        {
+            "id": 8038,
+            "name": "prefect_gcp"
+        },
+        {
+            "id": 8039,
+            "name": "prefect_sqlalchemy"
+        },
+        {
+            "id": 8040,
+            "name": "prefect_dbt"
+        },
+        {
+            "id": 8041,
+            "name": "mypy_boto3_secretsmanager"
+        },
+        {
+            "id": 8042,
+            "name": "prefect_ray"
+        },
+        {
+            "id": 8043,
+            "name": "prefect_aws"
+        },
+        {
+            "id": 8044,
+            "name": "huggingfaceserver"
+        },
+        {
+            "id": 8045,
+            "name": "my_project_name"
         }
     ]
 }
