@@ -32187,6 +32187,154 @@
         {
             "id": 8048,
             "name": "mdc"
+        },
+        {
+            "id": 8049,
+            "name": "deprecate"
+        },
+        {
+            "id": 8050,
+            "name": "nncf"
+        },
+        {
+            "id": 8051,
+            "name": "extcolors"
+        },
+        {
+            "id": 8052,
+            "name": "DeepCache"
+        },
+        {
+            "id": 8053,
+            "name": "torchao"
+        },
+        {
+            "id": 8054,
+            "name": "train_network"
+        },
+        {
+            "id": 8055,
+            "name": "tensordict"
+        },
+        {
+            "id": 8056,
+            "name": "hidet"
+        },
+        {
+            "id": 8057,
+            "name": "olive"
+        },
+        {
+            "id": 8058,
+            "name": "sdxl_train_network"
+        },
+        {
+            "id": 8059,
+            "name": "colormap"
+        },
+        {
+            "id": 8060,
+            "name": "pi_heif"
+        },
+        {
+            "id": 8061,
+            "name": "apispec_webframeworks"
+        },
+        {
+            "id": 8062,
+            "name": "contacts"
+        },
+        {
+            "id": 8063,
+            "name": "polls"
+        },
+        {
+            "id": 8064,
+            "name": "py_expression_eval"
+        },
+        {
+            "id": 8065,
+            "name": "pymeter"
+        },
+        {
+            "id": 8066,
+            "name": "unitrunner"
+        },
+        {
+            "id": 8067,
+            "name": "celery_work"
+        },
+        {
+            "id": 8068,
+            "name": "scalar_fastapi"
+        },
+        {
+            "id": 8069,
+            "name": "pytorch_msssim"
+        },
+        {
+            "id": 8070,
+            "name": "viser"
+        },
+        {
+            "id": 8071,
+            "name": "rawpy"
+        },
+        {
+            "id": 8072,
+            "name": "newrawpy"
+        },
+        {
+            "id": 8073,
+            "name": "gsplat"
+        },
+        {
+            "id": 8074,
+            "name": "nuscenes"
+        },
+        {
+            "id": 8075,
+            "name": "sshconf"
+        },
+        {
+            "id": 8076,
+            "name": "xatlas"
+        },
+        {
+            "id": 8077,
+            "name": "splines"
+        },
+        {
+            "id": 8078,
+            "name": "pandaset"
+        },
+        {
+            "id": 8079,
+            "name": "mediapy"
+        },
+        {
+            "id": 8080,
+            "name": "zod"
+        },
+        {
+            "id": 8081,
+            "name": "av2"
+        },
+        {
+            "id": 8082,
+            "name": "hloc"
+        },
+        {
+            "id": 8083,
+            "name": "pixsfm"
+        },
+        {
+            "id": 8084,
+            "name": "sqlalchemy_crud_plus"
+        },
+        {
+            "id": 8085,
+            "name": "llmTranslate"
         }
     ]
 }
