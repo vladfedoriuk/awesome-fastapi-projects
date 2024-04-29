@@ -32335,6 +32335,14 @@
         {
             "id": 8085,
             "name": "llmTranslate"
+        },
+        {
+            "id": 8086,
+            "name": "offat"
+        },
+        {
+            "id": 8087,
+            "name": "pynmea2"
         }
     ]
 }
