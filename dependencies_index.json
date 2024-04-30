@@ -32343,6 +32343,46 @@
         {
             "id": 8087,
             "name": "pynmea2"
+        },
+        {
+            "id": 8088,
+            "name": "paddle_xpu_nn"
+        },
+        {
+            "id": 8089,
+            "name": "paddle_xpu"
+        },
+        {
+            "id": 8090,
+            "name": "stringzilla"
+        },
+        {
+            "id": 8091,
+            "name": "mgm"
+        },
+        {
+            "id": 8092,
+            "name": "nb_time"
+        },
+        {
+            "id": 8093,
+            "name": "pandora"
+        },
+        {
+            "id": 8094,
+            "name": "web_search_client"
+        },
+        {
+            "id": 8095,
+            "name": "integration_utils"
+        },
+        {
+            "id": 8096,
+            "name": "tinychart"
+        },
+        {
+            "id": 8097,
+            "name": "sdl2"
         }
     ]
 }
