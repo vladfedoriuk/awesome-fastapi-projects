@@ -32383,6 +32383,38 @@
         {
             "id": 8097,
             "name": "sdl2"
+        },
+        {
+            "id": 8098,
+            "name": "pdm"
+        },
+        {
+            "id": 8099,
+            "name": "rjsmin"
+        },
+        {
+            "id": 8100,
+            "name": "sentinels"
+        },
+        {
+            "id": 8101,
+            "name": "mockseries"
+        },
+        {
+            "id": 8102,
+            "name": "pytest_check"
+        },
+        {
+            "id": 8103,
+            "name": "easy_context"
+        },
+        {
+            "id": 8104,
+            "name": "openbb_cli"
+        },
+        {
+            "id": 8105,
+            "name": "recurrentgemma"
         }
     ]
 }
