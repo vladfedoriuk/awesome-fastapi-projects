@@ -32439,6 +32439,22 @@
         {
             "id": 8111,
             "name": "spacy_alignments"
+        },
+        {
+            "id": 8112,
+            "name": "pyairports"
+        },
+        {
+            "id": 8113,
+            "name": "browserbase"
+        },
+        {
+            "id": 8114,
+            "name": "mistralrs"
+        },
+        {
+            "id": 8115,
+            "name": "browsergym"
         }
     ]
 }
