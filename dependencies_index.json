@@ -32539,6 +32539,50 @@
         {
             "id": 8136,
             "name": "easydel"
+        },
+        {
+            "id": 8137,
+            "name": "defog_data_private"
+        },
+        {
+            "id": 8138,
+            "name": "defog_data"
+        },
+        {
+            "id": 8139,
+            "name": "pandas_gbq"
+        },
+        {
+            "id": 8140,
+            "name": "modelscope_studio"
+        },
+        {
+            "id": 8141,
+            "name": "vllm_flash_attn"
+        },
+        {
+            "id": 8142,
+            "name": "hamilton_code"
+        },
+        {
+            "id": 8143,
+            "name": "kedro_code"
+        },
+        {
+            "id": 8144,
+            "name": "agent_rearrange"
+        },
+        {
+            "id": 8145,
+            "name": "env_config"
+        },
+        {
+            "id": 8146,
+            "name": "sqlean"
+        },
+        {
+            "id": 8147,
+            "name": "deprecation"
         }
     ]
 }
