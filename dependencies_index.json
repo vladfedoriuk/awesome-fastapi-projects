@@ -32639,6 +32639,26 @@
         {
             "id": 8161,
             "name": "pyqttoast"
+        },
+        {
+            "id": 8162,
+            "name": "mov_cli_youtube"
+        },
+        {
+            "id": 8163,
+            "name": "devgoldyutils"
+        },
+        {
+            "id": 8164,
+            "name": "langchain_prompty"
+        },
+        {
+            "id": 8165,
+            "name": "autogenstudio"
+        },
+        {
+            "id": 8166,
+            "name": "snowballstemmer"
         }
     ]
 }
