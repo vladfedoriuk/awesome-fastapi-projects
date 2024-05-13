@@ -32659,6 +32659,22 @@
         {
             "id": 8166,
             "name": "snowballstemmer"
+        },
+        {
+            "id": 8167,
+            "name": "fastapi_cli"
+        },
+        {
+            "id": 8168,
+            "name": "adafruit_ssd1306"
+        },
+        {
+            "id": 8169,
+            "name": "phue"
+        },
+        {
+            "id": 8170,
+            "name": "lavague"
         }
     ]
 }
