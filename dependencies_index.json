@@ -32775,6 +32775,198 @@
         {
             "id": 8195,
             "name": "eetq"
+        },
+        {
+            "id": 8196,
+            "name": "pyht"
+        },
+        {
+            "id": 8197,
+            "name": "pipecat"
+        },
+        {
+            "id": 8198,
+            "name": "pywatchman"
+        },
+        {
+            "id": 8199,
+            "name": "gilfoyle"
+        },
+        {
+            "id": 8200,
+            "name": "simple_parsing"
+        },
+        {
+            "id": 8201,
+            "name": "swebench"
+        },
+        {
+            "id": 8202,
+            "name": "oss"
+        },
+        {
+            "id": 8203,
+            "name": "essentia"
+        },
+        {
+            "id": 8204,
+            "name": "pretty_midi"
+        },
+        {
+            "id": 8205,
+            "name": "pyctcdecode"
+        },
+        {
+            "id": 8206,
+            "name": "rhoknp"
+        },
+        {
+            "id": 8207,
+            "name": "ward"
+        },
+        {
+            "id": 8208,
+            "name": "pycozo"
+        },
+        {
+            "id": 8209,
+            "name": "agents_api"
+        },
+        {
+            "id": 8210,
+            "name": "cozo_migrate"
+        },
+        {
+            "id": 8211,
+            "name": "model_api"
+        },
+        {
+            "id": 8212,
+            "name": "julep"
+        },
+        {
+            "id": 8213,
+            "name": "replit"
+        },
+        {
+            "id": 8214,
+            "name": "b2sdk"
+        },
+        {
+            "id": 8215,
+            "name": "eagleeye"
+        },
+        {
+            "id": 8216,
+            "name": "antvis"
+        },
+        {
+            "id": 8217,
+            "name": "mmedit"
+        },
+        {
+            "id": 8218,
+            "name": "aligo"
+        },
+        {
+            "id": 8219,
+            "name": "MobileNetV2"
+        },
+        {
+            "id": 8220,
+            "name": "poptorch"
+        },
+        {
+            "id": 8221,
+            "name": "ofa"
+        },
+        {
+            "id": 8222,
+            "name": "system"
+        },
+        {
+            "id": 8223,
+            "name": "manopth"
+        },
+        {
+            "id": 8224,
+            "name": "read_ImageNetData"
+        },
+        {
+            "id": 8225,
+            "name": "mmocr"
+        },
+        {
+            "id": 8226,
+            "name": "aimet_torch"
+        },
+        {
+            "id": 8227,
+            "name": "tfrecord"
+        },
+        {
+            "id": 8228,
+            "name": "aimet_common"
+        },
+        {
+            "id": 8229,
+            "name": "raiutils"
+        },
+        {
+            "id": 8230,
+            "name": "nebulaml"
+        },
+        {
+            "id": 8231,
+            "name": "mltable"
+        },
+        {
+            "id": 8232,
+            "name": "tf_helper"
+        },
+        {
+            "id": 8233,
+            "name": "simplification"
+        },
+        {
+            "id": 8234,
+            "name": "classify"
+        },
+        {
+            "id": 8235,
+            "name": "ml_wrappers"
+        },
+        {
+            "id": 8236,
+            "name": "amlsecscan"
+        },
+        {
+            "id": 8237,
+            "name": "responsibleai"
+        },
+        {
+            "id": 8238,
+            "name": "promptflow_vectordb"
+        },
+        {
+            "id": 8239,
+            "name": "wonderwords"
+        },
+        {
+            "id": 8240,
+            "name": "sshtunnel_requests"
+        },
+        {
+            "id": 8241,
+            "name": "ripser"
+        },
+        {
+            "id": 8242,
+            "name": "persim"
+        },
+        {
+            "id": 8243,
+            "name": "kmapper"
         }
     ]
 }
