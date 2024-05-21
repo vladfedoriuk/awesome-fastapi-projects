@@ -32979,6 +32979,38 @@
         {
             "id": 8246,
             "name": "pcapng"
+        },
+        {
+            "id": 8247,
+            "name": "xinference_client"
+        },
+        {
+            "id": 8248,
+            "name": "writerai"
+        },
+        {
+            "id": 8249,
+            "name": "s3_sqs_lambda_bedrock_s3_cdk_python"
+        },
+        {
+            "id": 8250,
+            "name": "gradio_video2video"
+        },
+        {
+            "id": 8251,
+            "name": "musev"
+        },
+        {
+            "id": 8252,
+            "name": "mmcm"
+        },
+        {
+            "id": 8253,
+            "name": "musetalk"
+        },
+        {
+            "id": 8254,
+            "name": "mergemate"
         }
     ]
 }
