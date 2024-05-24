@@ -33071,6 +33071,26 @@
         {
             "id": 8269,
             "name": "scrapfly"
+        },
+        {
+            "id": 8270,
+            "name": "manticoresearch"
+        },
+        {
+            "id": 8271,
+            "name": "yahoo_search"
+        },
+        {
+            "id": 8272,
+            "name": "langchain_milvus"
+        },
+        {
+            "id": 8273,
+            "name": "blind_watermark"
+        },
+        {
+            "id": 8274,
+            "name": "uno"
         }
     ]
 }
