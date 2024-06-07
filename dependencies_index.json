@@ -33431,6 +33431,130 @@
         {
             "id": 8359,
             "name": "common_src"
+        },
+        {
+            "id": 8360,
+            "name": "memgpt"
+        },
+        {
+            "id": 8361,
+            "name": "came_pytorch"
+        },
+        {
+            "id": 8362,
+            "name": "load_csv"
+        },
+        {
+            "id": 8363,
+            "name": "dialog_lib"
+        },
+        {
+            "id": 8364,
+            "name": "nptyping"
+        },
+        {
+            "id": 8365,
+            "name": "windpowerlib"
+        },
+        {
+            "id": 8366,
+            "name": "gurobi_optimods"
+        },
+        {
+            "id": 8367,
+            "name": "pypardiso"
+        },
+        {
+            "id": 8368,
+            "name": "trunk"
+        },
+        {
+            "id": 8369,
+            "name": "meteostat"
+        },
+        {
+            "id": 8370,
+            "name": "powerfactory"
+        },
+        {
+            "id": 8371,
+            "name": "newtonpa"
+        },
+        {
+            "id": 8372,
+            "name": "GridCalEngine"
+        },
+        {
+            "id": 8373,
+            "name": "EnergyExemplar"
+        },
+        {
+            "id": 8374,
+            "name": "pvlib"
+        },
+        {
+            "id": 8375,
+            "name": "cvxoptklu"
+        },
+        {
+            "id": 8376,
+            "name": "darkdetect"
+        },
+        {
+            "id": 8377,
+            "name": "pypsa"
+        },
+        {
+            "id": 8378,
+            "name": "GridCalServer"
+        },
+        {
+            "id": 8379,
+            "name": "EEUTILITY"
+        },
+        {
+            "id": 8380,
+            "name": "pymoo"
+        },
+        {
+            "id": 8381,
+            "name": "bentayga"
+        },
+        {
+            "id": 8382,
+            "name": "highspy"
+        },
+        {
+            "id": 8383,
+            "name": "tutorials"
+        },
+        {
+            "id": 8384,
+            "name": "power_grid_model"
+        },
+        {
+            "id": 8385,
+            "name": "GridCal"
+        },
+        {
+            "id": 8386,
+            "name": "PyFlyt"
+        },
+        {
+            "id": 8387,
+            "name": "EmQuantAPI"
+        },
+        {
+            "id": 8388,
+            "name": "snake"
+        },
+        {
+            "id": 8389,
+            "name": "nemo_text_processing"
+        },
+        {
+            "id": 8390,
+            "name": "zenguard"
         }
     ]
 }
