@@ -33555,6 +33555,122 @@
         {
             "id": 8390,
             "name": "zenguard"
+        },
+        {
+            "id": 8391,
+            "name": "streamv2v"
+        },
+        {
+            "id": 8392,
+            "name": "Antropic"
+        },
+        {
+            "id": 8393,
+            "name": "taskiq"
+        },
+        {
+            "id": 8394,
+            "name": "aiogram_dialog"
+        },
+        {
+            "id": 8395,
+            "name": "faststream"
+        },
+        {
+            "id": 8396,
+            "name": "dishka"
+        },
+        {
+            "id": 8397,
+            "name": "main_web"
+        },
+        {
+            "id": 8398,
+            "name": "moss_002_sft"
+        },
+        {
+            "id": 8399,
+            "name": "tos"
+        },
+        {
+            "id": 8400,
+            "name": "torch_dipu"
+        },
+        {
+            "id": 8401,
+            "name": "deeplink_ext"
+        },
+        {
+            "id": 8402,
+            "name": "fused_dense_lib"
+        },
+        {
+            "id": 8403,
+            "name": "internlm_model"
+        },
+        {
+            "id": 8404,
+            "name": "RealtimeTTS"
+        },
+        {
+            "id": 8405,
+            "name": "openai_token_counter"
+        },
+        {
+            "id": 8406,
+            "name": "tinytuya"
+        },
+        {
+            "id": 8407,
+            "name": "qfluentwidgets"
+        },
+        {
+            "id": 8408,
+            "name": "plivo"
+        },
+        {
+            "id": 8409,
+            "name": "pyhanlp"
+        },
+        {
+            "id": 8410,
+            "name": "pocode"
+        },
+        {
+            "id": 8411,
+            "name": "pypyodbc"
+        },
+        {
+            "id": 8412,
+            "name": "jsonstreamer"
+        },
+        {
+            "id": 8413,
+            "name": "upstash_ratelimit"
+        },
+        {
+            "id": 8414,
+            "name": "langchain_couchbase"
+        },
+        {
+            "id": 8415,
+            "name": "calculate_age"
+        },
+        {
+            "id": 8416,
+            "name": "utilize_date"
+        },
+        {
+            "id": 8417,
+            "name": "voxec"
+        },
+        {
+            "id": 8418,
+            "name": "libth_transformer"
+        },
+        {
+            "id": 8419,
+            "name": "defog_utils"
         }
     ]
 }
