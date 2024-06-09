@@ -33671,6 +33671,26 @@
         {
             "id": 8419,
             "name": "defog_utils"
+        },
+        {
+            "id": 8420,
+            "name": "pyltp"
+        },
+        {
+            "id": 8421,
+            "name": "ltp_extension"
+        },
+        {
+            "id": 8422,
+            "name": "thulac"
+        },
+        {
+            "id": 8423,
+            "name": "pyrootutils"
+        },
+        {
+            "id": 8424,
+            "name": "ltp_core"
         }
     ]
 }
