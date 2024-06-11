@@ -33739,6 +33739,14 @@
         {
             "id": 8436,
             "name": "mirrorsrun"
+        },
+        {
+            "id": 8437,
+            "name": "sqlite_vec"
+        },
+        {
+            "id": 8438,
+            "name": "ai21_tokenizer"
         }
     ]
 }
