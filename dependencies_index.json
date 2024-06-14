@@ -33855,6 +33855,50 @@
         {
             "id": 8465,
             "name": "hidiffusion"
+        },
+        {
+            "id": 8466,
+            "name": "ppo_trainer"
+        },
+        {
+            "id": 8467,
+            "name": "pedalboard"
+        },
+        {
+            "id": 8468,
+            "name": "digitar"
+        },
+        {
+            "id": 8469,
+            "name": "tablature"
+        },
+        {
+            "id": 8470,
+            "name": "pvkoala"
+        },
+        {
+            "id": 8471,
+            "name": "hamilton_ui"
+        },
+        {
+            "id": 8472,
+            "name": "mnist_dataset"
+        },
+        {
+            "id": 8473,
+            "name": "newrelic_k8s_operator"
+        },
+        {
+            "id": 8474,
+            "name": "pycsghub"
+        },
+        {
+            "id": 8475,
+            "name": "llguidance"
+        },
+        {
+            "id": 8476,
+            "name": "tgate"
         }
     ]
 }
