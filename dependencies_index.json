@@ -33927,6 +33927,30 @@
         {
             "id": 8483,
             "name": "dashinfer"
+        },
+        {
+            "id": 8484,
+            "name": "latent_preview"
+        },
+        {
+            "id": 8485,
+            "name": "lollmsvectordb"
+        },
+        {
+            "id": 8486,
+            "name": "ports"
+        },
+        {
+            "id": 8487,
+            "name": "bots"
+        },
+        {
+            "id": 8488,
+            "name": "hubs"
+        },
+        {
+            "id": 8489,
+            "name": "nemoguardrails"
         }
     ]
 }
