@@ -34007,6 +34007,90 @@
         {
             "id": 8503,
             "name": "streamlit_folium"
+        },
+        {
+            "id": 8504,
+            "name": "stuff"
+        },
+        {
+            "id": 8505,
+            "name": "DB"
+        },
+        {
+            "id": 8506,
+            "name": "py115"
+        },
+        {
+            "id": 8507,
+            "name": "argilla_v1"
+        },
+        {
+            "id": 8508,
+            "name": "generatorcli"
+        },
+        {
+            "id": 8509,
+            "name": "document_loaders"
+        },
+        {
+            "id": 8510,
+            "name": "model_providers"
+        },
+        {
+            "id": 8511,
+            "name": "chatchat"
+        },
+        {
+            "id": 8512,
+            "name": "intel_npu_acceleration_library"
+        },
+        {
+            "id": 8513,
+            "name": "torch_blade"
+        },
+        {
+            "id": 8514,
+            "name": "Pyro5"
+        },
+        {
+            "id": 8515,
+            "name": "ipylab"
+        },
+        {
+            "id": 8516,
+            "name": "cyber_dev_day"
+        },
+        {
+            "id": 8517,
+            "name": "qutip"
+        },
+        {
+            "id": 8518,
+            "name": "marker"
+        },
+        {
+            "id": 8519,
+            "name": "yfiles_jupyter_graphs"
+        },
+        {
+            "id": 8520,
+            "name": "mixedbread_ai"
+        },
+        {
+            "id": 8521,
+            "name": "langchain_teddynote"
+        },
+        {
+            "id": 8522,
+            "name": "swankit"
+        },
+        {
+            "id": 8523,
+            "name": "postgrest"
+        },
+        {
+            "id": 8524,
+            "name": "daily"
         }
     ]
 }
