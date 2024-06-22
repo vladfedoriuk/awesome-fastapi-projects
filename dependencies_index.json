@@ -34091,6 +34091,14 @@
         {
             "id": 8524,
             "name": "daily"
+        },
+        {
+            "id": 8525,
+            "name": "langchain_chatchat"
+        },
+        {
+            "id": 8526,
+            "name": "compass_sdk"
         }
     ]
 }
