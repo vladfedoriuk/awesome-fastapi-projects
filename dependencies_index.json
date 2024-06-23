@@ -34099,6 +34099,18 @@
         {
             "id": 8526,
             "name": "compass_sdk"
+        },
+        {
+            "id": 8527,
+            "name": "npu"
+        },
+        {
+            "id": 8528,
+            "name": "simpleinference"
+        },
+        {
+            "id": 8529,
+            "name": "llama_cloud"
         }
     ]
 }
