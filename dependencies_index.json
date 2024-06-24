@@ -34111,6 +34111,10 @@
         {
             "id": 8529,
             "name": "llama_cloud"
+        },
+        {
+            "id": 8530,
+            "name": "promptsearch"
         }
     ]
 }
