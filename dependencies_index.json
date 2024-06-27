@@ -34231,6 +34231,26 @@
         {
             "id": 8559,
             "name": "numba_scipy"
+        },
+        {
+            "id": 8560,
+            "name": "multi_node"
+        },
+        {
+            "id": 8561,
+            "name": "codegen"
+        },
+        {
+            "id": 8562,
+            "name": "jamba_swarm"
+        },
+        {
+            "id": 8563,
+            "name": "custom_resources"
+        },
+        {
+            "id": 8564,
+            "name": "stacks"
         }
     ]
 }
