@@ -34251,6 +34251,66 @@
         {
             "id": 8564,
             "name": "stacks"
+        },
+        {
+            "id": 8565,
+            "name": "resemble_enhance"
+        },
+        {
+            "id": 8566,
+            "name": "sources"
+        },
+        {
+            "id": 8567,
+            "name": "quivr_api"
+        },
+        {
+            "id": 8568,
+            "name": "quivr_core"
+        },
+        {
+            "id": 8569,
+            "name": "fastapi_simple_rate_limiter"
+        },
+        {
+            "id": 8570,
+            "name": "cache_manager"
+        },
+        {
+            "id": 8571,
+            "name": "story_tree"
+        },
+        {
+            "id": 8572,
+            "name": "loot"
+        },
+        {
+            "id": 8573,
+            "name": "story_node"
+        },
+        {
+            "id": 8574,
+            "name": "ai_manager"
+        },
+        {
+            "id": 8575,
+            "name": "item"
+        },
+        {
+            "id": 8576,
+            "name": "story_arc"
+        },
+        {
+            "id": 8577,
+            "name": "save_manager"
+        },
+        {
+            "id": 8578,
+            "name": "character"
+        },
+        {
+            "id": 8579,
+            "name": "pyminizip"
         }
     ]
 }
