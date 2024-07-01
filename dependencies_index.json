@@ -34327,6 +34327,14 @@
         {
             "id": 8583,
             "name": "pytestqt"
+        },
+        {
+            "id": 8584,
+            "name": "FreeSimpleGUI"
+        },
+        {
+            "id": 8585,
+            "name": "cleanlab_studio"
         }
     ]
 }
