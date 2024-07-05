@@ -34355,6 +34355,78 @@
         {
             "id": 8590,
             "name": "something_else"
+        },
+        {
+            "id": 8591,
+            "name": "index_kits"
+        },
+        {
+            "id": 8592,
+            "name": "pillow_jxl"
+        },
+        {
+            "id": 8593,
+            "name": "torch_musa"
+        },
+        {
+            "id": 8594,
+            "name": "jxlpy"
+        },
+        {
+            "id": 8595,
+            "name": "megaparse"
+        },
+        {
+            "id": 8596,
+            "name": "langgraph_sdk"
+        },
+        {
+            "id": 8597,
+            "name": "livekit"
+        },
+        {
+            "id": 8598,
+            "name": "hamilton_lsp"
+        },
+        {
+            "id": 8599,
+            "name": "narwhals"
+        },
+        {
+            "id": 8600,
+            "name": "openai_responses"
+        },
+        {
+            "id": 8601,
+            "name": "test_llm"
+        },
+        {
+            "id": 8602,
+            "name": "fastapi_server"
+        },
+        {
+            "id": 8603,
+            "name": "cs50"
+        },
+        {
+            "id": 8604,
+            "name": "s3_eventbridge_gluecrawler"
+        },
+        {
+            "id": 8605,
+            "name": "jsonschema_rs"
+        },
+        {
+            "id": 8606,
+            "name": "oashya"
+        },
+        {
+            "id": 8607,
+            "name": "maxdiffusion"
+        },
+        {
+            "id": 8608,
+            "name": "llama_agents"
         }
     ]
 }
