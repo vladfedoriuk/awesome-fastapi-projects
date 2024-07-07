@@ -34427,6 +34427,30 @@
         {
             "id": 8608,
             "name": "llama_agents"
+        },
+        {
+            "id": 8609,
+            "name": "train_thuglm"
+        },
+        {
+            "id": 8610,
+            "name": "ragstack_knowledge_store"
+        },
+        {
+            "id": 8611,
+            "name": "mem0"
+        },
+        {
+            "id": 8612,
+            "name": "Stemmer"
+        },
+        {
+            "id": 8613,
+            "name": "bm25s"
+        },
+        {
+            "id": 8614,
+            "name": "multi_agent_app_rabbitmq"
         }
     ]
 }
