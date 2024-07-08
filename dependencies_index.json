@@ -34451,6 +34451,26 @@
         {
             "id": 8614,
             "name": "multi_agent_app_rabbitmq"
+        },
+        {
+            "id": 8615,
+            "name": "happyxpy"
+        },
+        {
+            "id": 8616,
+            "name": "gmssl"
+        },
+        {
+            "id": 8617,
+            "name": "infinity_client"
+        },
+        {
+            "id": 8618,
+            "name": "tree_sitter_java"
+        },
+        {
+            "id": 8619,
+            "name": "leads_jarvis"
         }
     ]
 }
