@@ -37823,6 +37823,174 @@
         {
             "id": 9457,
             "name": "torchao_mps_ops"
+        },
+        {
+            "id": 9458,
+            "name": "crawl4ai"
+        },
+        {
+            "id": 9459,
+            "name": "assistants"
+        },
+        {
+            "id": 9460,
+            "name": "assistant_stream"
+        },
+        {
+            "id": 9461,
+            "name": "cartesia"
+        },
+        {
+            "id": 9462,
+            "name": "melo"
+        },
+        {
+            "id": 9463,
+            "name": "_sqlite3"
+        },
+        {
+            "id": 9464,
+            "name": "xai_sdk"
+        },
+        {
+            "id": 9465,
+            "name": "pyobvector"
+        },
+        {
+            "id": 9466,
+            "name": "copilot"
+        },
+        {
+            "id": 9467,
+            "name": "finic_py"
+        },
+        {
+            "id": 9468,
+            "name": "www_authenticate"
+        },
+        {
+            "id": 9469,
+            "name": "concrete_ml_extensions"
+        },
+        {
+            "id": 9470,
+            "name": "compressed_tensors"
+        },
+        {
+            "id": 9471,
+            "name": "agbench"
+        },
+        {
+            "id": 9472,
+            "name": "openbb_platform_api"
+        },
+        {
+            "id": 9473,
+            "name": "empty_provider"
+        },
+        {
+            "id": 9474,
+            "name": "graph_definitions"
+        },
+        {
+            "id": 9475,
+            "name": "ui_assets"
+        },
+        {
+            "id": 9476,
+            "name": "fhirclient"
+        },
+        {
+            "id": 9477,
+            "name": "blackstone_pe"
+        },
+        {
+            "id": 9478,
+            "name": "protocol_simulation"
+        },
+        {
+            "id": 9479,
+            "name": "cudaq_test_cpp_algo"
+        },
+        {
+            "id": 9480,
+            "name": "pipe"
+        },
+        {
+            "id": 9481,
+            "name": "bragir"
+        },
+        {
+            "id": 9482,
+            "name": "colpali_engine"
+        },
+        {
+            "id": 9483,
+            "name": "swarm"
+        },
+        {
+            "id": 9484,
+            "name": "parmapper"
+        },
+        {
+            "id": 9485,
+            "name": "checklist_flow"
+        },
+        {
+            "id": 9486,
+            "name": "mindspeed"
+        },
+        {
+            "id": 9487,
+            "name": "ema_pytorch"
+        },
+        {
+            "id": 9488,
+            "name": "einx"
+        },
+        {
+            "id": 9489,
+            "name": "f5_tts"
+        },
+        {
+            "id": 9490,
+            "name": "coptpy"
+        },
+        {
+            "id": 9491,
+            "name": "pyscipopt"
+        },
+        {
+            "id": 9492,
+            "name": "xpress"
+        },
+        {
+            "id": 9493,
+            "name": "cplex"
+        },
+        {
+            "id": 9494,
+            "name": "nonebot_plugin_uninfo"
+        },
+        {
+            "id": 9495,
+            "name": "pyrsmi"
+        },
+        {
+            "id": 9496,
+            "name": "dora_argotranslate"
+        },
+        {
+            "id": 9497,
+            "name": "dora_opus"
+        },
+        {
+            "id": 9498,
+            "name": "dora_vad"
+        },
+        {
+            "id": 9499,
+            "name": "kiota_serialization_text"
         }
     ]
 }
