@@ -37991,6 +37991,150 @@
         {
             "id": 9499,
             "name": "kiota_serialization_text"
+        },
+        {
+            "id": 9500,
+            "name": "qwqfetch"
+        },
+        {
+            "id": 9501,
+            "name": "hypy_utils"
+        },
+        {
+            "id": 9502,
+            "name": "pymorphy3"
+        },
+        {
+            "id": 9503,
+            "name": "catalogue"
+        },
+        {
+            "id": 9504,
+            "name": "ml_datasets"
+        },
+        {
+            "id": 9505,
+            "name": "cymem"
+        },
+        {
+            "id": 9506,
+            "name": "spacy_pkuseg"
+        },
+        {
+            "id": 9507,
+            "name": "preshed"
+        },
+        {
+            "id": 9508,
+            "name": "weasel"
+        },
+        {
+            "id": 9509,
+            "name": "safehttpx"
+        },
+        {
+            "id": 9510,
+            "name": "renoir"
+        },
+        {
+            "id": 9511,
+            "name": "emmett_core"
+        },
+        {
+            "id": 9512,
+            "name": "emmett55"
+        },
+        {
+            "id": 9513,
+            "name": "litestar_htmx"
+        },
+        {
+            "id": 9514,
+            "name": "transformers_modules"
+        },
+        {
+            "id": 9515,
+            "name": "mochi_preview"
+        },
+        {
+            "id": 9516,
+            "name": "logging_tree"
+        },
+        {
+            "id": 9517,
+            "name": "superduper_qdrant"
+        },
+        {
+            "id": 9518,
+            "name": "superduper_lance"
+        },
+        {
+            "id": 9519,
+            "name": "emu3"
+        },
+        {
+            "id": 9520,
+            "name": "xgrammar"
+        },
+        {
+            "id": 9521,
+            "name": "theine"
+        },
+        {
+            "id": 9522,
+            "name": "llama_deploy"
+        },
+        {
+            "id": 9523,
+            "name": "acouchbase"
+        },
+        {
+            "id": 9524,
+            "name": "markdown_pdf"
+        },
+        {
+            "id": 9525,
+            "name": "tokencost"
+        },
+        {
+            "id": 9526,
+            "name": "ua_generator"
+        },
+        {
+            "id": 9527,
+            "name": "meissonic"
+        },
+        {
+            "id": 9528,
+            "name": "lora_extract"
+        },
+        {
+            "id": 9529,
+            "name": "sageattention"
+        },
+        {
+            "id": 9530,
+            "name": "pynng"
+        },
+        {
+            "id": 9531,
+            "name": "wcferry"
+        },
+        {
+            "id": 9532,
+            "name": "Secweb"
+        },
+        {
+            "id": 9533,
+            "name": "graphdatascience"
+        },
+        {
+            "id": 9534,
+            "name": "nexa_gguf"
+        },
+        {
+            "id": 9535,
+            "name": "e2b_charts"
         }
     ]
 }
