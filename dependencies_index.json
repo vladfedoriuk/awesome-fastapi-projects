@@ -38135,6 +38135,122 @@
         {
             "id": 9535,
             "name": "e2b_charts"
+        },
+        {
+            "id": 9536,
+            "name": "nano_vectordb"
+        },
+        {
+            "id": 9537,
+            "name": "dac"
+        },
+        {
+            "id": 9538,
+            "name": "wids"
+        },
+        {
+            "id": 9539,
+            "name": "gptpdf"
+        },
+        {
+            "id": 9540,
+            "name": "pgai"
+        },
+        {
+            "id": 9541,
+            "name": "latex2sympy2"
+        },
+        {
+            "id": 9542,
+            "name": "latex2sympy"
+        },
+        {
+            "id": 9543,
+            "name": "mat"
+        },
+        {
+            "id": 9544,
+            "name": "rpa"
+        },
+        {
+            "id": 9545,
+            "name": "test_olipsync"
+        },
+        {
+            "id": 9546,
+            "name": "ringrwkv"
+        },
+        {
+            "id": 9547,
+            "name": "cemotion"
+        },
+        {
+            "id": 9548,
+            "name": "pgpt_python"
+        },
+        {
+            "id": 9549,
+            "name": "python_multipart"
+        },
+        {
+            "id": 9550,
+            "name": "taskflow_collections"
+        },
+        {
+            "id": 9551,
+            "name": "mcipc"
+        },
+        {
+            "id": 9552,
+            "name": "briton"
+        },
+        {
+            "id": 9553,
+            "name": "plugin_lib"
+        },
+        {
+            "id": 9554,
+            "name": "valkey"
+        },
+        {
+            "id": 9555,
+            "name": "mcstatus"
+        },
+        {
+            "id": 9556,
+            "name": "dataanalysis"
+        },
+        {
+            "id": 9557,
+            "name": "llmstudio"
+        },
+        {
+            "id": 9558,
+            "name": "llmstudio_proxy"
+        },
+        {
+            "id": 9559,
+            "name": "llmstudio_tracker"
+        },
+        {
+            "id": 9560,
+            "name": "llmstudio_core"
+        },
+        {
+            "id": 9561,
+            "name": "nnunetv2"
+        },
+        {
+            "id": 9562,
+            "name": "simplemind"
+        },
+        {
+            "id": 9563,
+            "name": "playwright_stealth"
+        },
+        {
+            "id": 9564,
+            "name": "mlx_whisper"
         }
     ]
 }
