@@ -40239,6 +40239,14 @@
         {
             "id": 10061,
             "name": "tree_sitter_cpp"
+        },
+        {
+            "id": 10062,
+            "name": "lightning_whisper_mlx"
+        },
+        {
+            "id": 10063,
+            "name": "solace"
         }
     ]
 }
