@@ -40315,6 +40315,42 @@
         {
             "id": 10080,
             "name": "larch"
+        },
+        {
+            "id": 10081,
+            "name": "local_module"
+        },
+        {
+            "id": 10082,
+            "name": "gel"
+        },
+        {
+            "id": 10083,
+            "name": "beam"
+        },
+        {
+            "id": 10084,
+            "name": "aphrodite_cutlass_library_extension"
+        },
+        {
+            "id": 10085,
+            "name": "htmy"
+        },
+        {
+            "id": 10086,
+            "name": "RTN"
+        },
+        {
+            "id": 10087,
+            "name": "email_agent"
+        },
+        {
+            "id": 10088,
+            "name": "greeting_agent"
+        },
+        {
+            "id": 10089,
+            "name": "transformer_engine_torch"
         }
     ]
 }
