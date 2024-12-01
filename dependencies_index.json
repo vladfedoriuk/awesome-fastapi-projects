@@ -40403,6 +40403,38 @@
         {
             "id": 10102,
             "name": "engine_geo"
+        },
+        {
+            "id": 10103,
+            "name": "math_equivalence"
+        },
+        {
+            "id": 10104,
+            "name": "mlx_vlm"
+        },
+        {
+            "id": 10105,
+            "name": "asyncua"
+        },
+        {
+            "id": 10106,
+            "name": "pycozo_async"
+        },
+        {
+            "id": 10107,
+            "name": "aisuite"
+        },
+        {
+            "id": 10108,
+            "name": "ppstructure"
+        },
+        {
+            "id": 10109,
+            "name": "pyopenagi"
+        },
+        {
+            "id": 10110,
+            "name": "cerebrum"
         }
     ]
 }
